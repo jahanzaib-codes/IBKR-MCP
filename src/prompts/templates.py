@@ -33,3 +33,4 @@ Generate an institutional premarket intelligence briefing for today's trading se
 2. Review SPY and QQQ expected opening ranges and volatility indices.
 3. Check open orders and existing portfolio positions for any overnight risk gap.
 """
+

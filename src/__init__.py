@@ -4,3 +4,4 @@ Connecting Claude Desktop, Cursor, and AI agents to IBKR accounts and market dat
 """
 
 __version__ = "1.0.0"
+

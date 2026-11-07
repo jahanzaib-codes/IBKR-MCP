@@ -9,3 +9,4 @@ __all__ = [
     "get_trade_idea_prompt",
     "get_premarket_briefing_prompt"
 ]
+
