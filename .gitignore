@@ -1,0 +1,50 @@
+# Environment and secrets
+.env
+*.env
+*.local
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs & Database
+logs/
+*.log
+*.sqlite3
+*.db
+
+# Automated test suites (Strict: Do not push tests to GitHub)
+tests/
+.pytest_cache/
+.coverage
+htmlcov/
