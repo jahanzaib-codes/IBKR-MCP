@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  ibkr-mcp:
+    build: .
+    container_name: ibkr-mcp-server
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - IBKR_HOST=host.docker.internal
+      - IBKR_PORT=7497
+      - MCP_TRANSPORT=sse
+    env_file:
+      - .env.example
