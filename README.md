@@ -15,7 +15,6 @@
 I engineer high-performance algorithmic execution engines, institutional broker APIs, and AI quantitative assistants for funds, prop traders, and private desks.
 * 💬 **Telegram:** [@JanzebBlockdev](https://t.me/JanzebBlockdev)
 * 💼 **Fiverr Profile:** [Verified Quantitative Developer (Fiverr)](https://www.fiverr.com/jahanzaib313110)
-* 📧 **Email:** `jahanzaibchanna70@gmail.com`
 
 ---
 
@@ -235,5 +234,4 @@ Distributed under the **MIT License**. See `LICENSE` for details.
 * **GitHub:** [@jahanzaib-codes](https://github.com/jahanzaib-codes)
 * **Fiverr:** [Hire for Quant & Trading Bot Development](https://www.fiverr.com/jahanzaib313110)
 * **Telegram:** [@JanzebBlockdev](https://t.me/JanzebBlockdev)
-* **Email:** `jahanzaibchanna70@gmail.com`
 
